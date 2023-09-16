@@ -1,6 +1,6 @@
 // Copyright 2020 Your Name <your_email>
 
-#include "lab05.hpp"
+#include "functions.hpp"
 #include <gtest/gtest.h>
 #include <limits>
 
